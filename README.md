@@ -4,7 +4,9 @@ The bot was created June 13, 2019 and is being updated nearly every single day.
 The bot barely has any content at the moment, but functions such as economy, music, giveaways, and other popular functions will be added soon. 
 Below are a list of the bot's current commands and some info on more complex ones. 
 
-`">"` is the command prefix for Toast.
+`">"` is the command prefix for Toast. A customizable prefix may be added in the future. 
+
+
 
 `ban` - bans the pinged user and DM's them the reason they were kicked. 
 
