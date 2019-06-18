@@ -7,7 +7,7 @@ Below are a list of the bot's current commands and some info on more complex one
 There are 3 command prefixes for toast- `>`, `toast`, and `ts`. A customizable prefix will likely be added in the near future.
 -
 
-`ban` - bans the pinged user and DM's them the reason they were kicked. 
+```ban``` - bans the pinged user and DM's them the reason they were kicked. 
 
 `kick` - kicks the pinged user and DM's them the reason they were banned. 
 
